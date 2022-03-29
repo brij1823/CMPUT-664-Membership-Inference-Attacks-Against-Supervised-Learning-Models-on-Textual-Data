@@ -11,9 +11,9 @@ pip install -r ./requirements.txt
 ## Database Setup
 
 For this project we have used 3 datasets which can be downloaded in ```./Dataset``` folder. The three datasets which are being used are : 
-- Adult Income Dataset
-- Heart Disease
-- Pima Diabetes
+- [Adult Income Dataset ](https://github.com/brij1823/CMPUT-664-Membership-Inference-Attacks-Against-Supervised-Learning-Models-on-Textual-Data/tree/main/Dataset/adult%20census)
+- [ Heart Disease](https://github.com/brij1823/CMPUT-664-Membership-Inference-Attacks-Against-Supervised-Learning-Models-on-Textual-Data/tree/main/Dataset/Heart%20Disease)
+- [Pima Diabetes](https://github.com/brij1823/CMPUT-664-Membership-Inference-Attacks-Against-Supervised-Learning-Models-on-Textual-Data/tree/main/Dataset/Pima%20Diabetes)
 
 ## Methodology
 
