@@ -39,4 +39,11 @@ python -m ./Code/Shadow Models/Shadow_Attack{Dataset}.ipynb
 
 ## Evaluation
 
+# Census Data Set
+![](Census_data_results.png)
 
+# Pima Diabetes Data Set
+![](Diabetes_data_results.png)
+
+# Heart Disease Data Set
+![](Heart_data_results.png)
