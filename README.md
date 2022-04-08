@@ -1,4 +1,4 @@
-# CMPUT-664-Membership-Inference-Attacks-Against-Supervised-Learning-Models-on-Textual-Data
+# CMPUT-664-Membership-Inference-Attacks-Against-Supervised-Learning-Models-on-Numeric-Data
 
 ## Environment Setup
 To setup all the necessary files and libraries which will be required, we have setup a requirements.txt file.
